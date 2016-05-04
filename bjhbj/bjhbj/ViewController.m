@@ -33,6 +33,7 @@
     if (i==1)
     {
         NSLog(@"hahaha");
+        NSLog(@"hhh");
     }
 
 
