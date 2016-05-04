@@ -18,6 +18,7 @@
     [super viewDidLoad];
     NSLog(@"hahaha");
     NSLog(@"sf");
+    NSLog(@"sfsd");
 
 }
 
