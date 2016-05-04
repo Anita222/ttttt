@@ -22,6 +22,19 @@
     NSLog(@"jjjjj");
     NSLog(@"'fsdfs");
     NSLog(@"hyp");
+    
+    
+    int i=0;
+    if (i==0)
+    {
+        NSLog(@"dui");
+    }
+    
+    if (i==1)
+    {
+        NSLog(@"hahaha");
+    }
+
 
 }
 
